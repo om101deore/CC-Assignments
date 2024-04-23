@@ -1,4 +1,4 @@
-# 5.Write IaC using terraform to create EC2 machine on aws or azure or google cloud. (Compulsory to use Input and output variable files)
+# 6. Write an ansible-playbook to install nginx on target servers.
 
 - Name:     Om Deore
 - PRN:      22110318
